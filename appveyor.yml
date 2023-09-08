@@ -3,6 +3,7 @@
 os: WMF 5
 # See http://www.appveyor.com/docs/appveyor-yml for many more options
 
+# Basic format.  Needs review
 #Publish to PowerShell Gallery with this key
 # Save this for later
 
